@@ -1,0 +1,135 @@
+<table>
+  <tr>
+    <th> Movie Names</th>
+    <th>Year</th>
+    <th>Total box-office earnings</th>
+  </tr>
+  <tr>
+    <td>Avengers Endgame</td>
+    <td>2019</td>
+    <td>$2.796Billion</td>
+  </tr>
+  <tr>
+    <td>Avatar</td>
+    <td>2009</td>
+    <td>$2,79billion</td>
+  </tr>
+  <tr>
+    <td>Titanic</td>
+    <td>1997</td>
+    <td>$2,79Billion</td>
+  </tr>
+  <tr>
+    <td>Star Wars:The Force Awakens</td>
+    <td>2015</td>
+    <td>$2,068Billion</td>
+    </tr>
+    <tr>
+    <td>Avengers:Infinity War</td>
+    <td>2018</td>
+    <td>$2,048Billion</td>
+    </tr>
+    <tr>
+    <td>Jurassic World</td>
+    <td>2015</td>
+    <td>$1,672Billion</td>
+    </tr>
+    <tr>
+    <td>The Lion King</td>
+    <td>1994</td>
+    <td>$1,632Billion</td>
+    </tr>
+    <tr>
+    <td>Transformers:Dark of the Moon</td>
+    <td>2011</td>
+    <td>$1,123Billion</td>
+     </tr>
+  <tr>
+    <td>Captain Marvel</td>
+    <td>2019</td>
+    <td>$2,79billion</td>
+  </tr>
+  <tr>
+    <td>Spider-man:Far From Home</td>
+    <td>2019</td>
+    <td>$1,129Billion</td>
+  </tr>
+  <tr>
+    <td>Aquaman</td>
+    <td>2018</td>
+    <td>$1,148Billion</td>
+    </tr>
+    <tr>
+    <td>Captain America</td>
+    <td>$1,153Billion</td>
+    <td>2016</td>
+    </tr>
+    <tr>
+    <td>Minions</td>
+    <td>$1,159Billion</td>
+    <td>2015</td>
+    </tr>
+    <tr>
+    <td>Iron Man 3</td>
+    <td>$1,2152Billion</td>
+    <td>2013</td>
+    </tr>
+    <tr>
+    <td>The Fate of Furious</td>
+    <td>$1,236Billion</td>
+    <td>2017</td> </tr>
+  <tr>
+    <td>Incredibles 2</td>
+    <td>2018</td>
+    <td>$1,242billion</td>
+  </tr>
+  <tr>
+    <td>Beauty and the Beast</td>
+    <td>2017</td>
+    <td>$1,264Billion</td>
+  </tr>
+  <tr>
+    <td>Frozen</td>
+    <td>2013</td>
+    <td>$1,276Billion</td>
+    </tr>
+    <tr>
+    <td>Jurassic World:Fallen Kingdom</td>
+    <td>2018</td>
+    <td>$1,308Billion</td>
+    </tr>
+    <tr>
+    <td>star Wars:The Last Jedi</td>
+    <td>2017</td>
+    <td>$1,333Billion</td>
+    </tr>
+    <tr>
+    <td>Harry Potter and the Deathly Hallows</td>
+    <td>2011</td>
+    <td>$1,342Billion</td>
+    </tr>
+    <tr>
+    <td>Black Panther</td>
+    <td>2018</td>
+    <td>$1,247Billion</td>
+    </tr>
+    <tr>
+    <td>Avengers:Age of Ultron</td>
+    <td>2015</td>
+    <td>$1,333Billion</td>
+    </tr>
+    <tr>
+    <td>Harry Potter and the Deathly Hallows</td>
+    <td>2011</td>
+    <td>$1,405Billion</td>
+    </tr>
+    <tr>
+    <td>furious 7</td>
+    <td>2015</td>
+    <td>$1,516Billion</td>
+     </tr>
+    <tr>
+    <td>The Avengers</td>
+    <td>2012</td>
+    <td>$1,519Billion</td>
+</table>
